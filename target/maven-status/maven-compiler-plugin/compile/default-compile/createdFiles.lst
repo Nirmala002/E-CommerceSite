@@ -1,0 +1,3 @@
+com\fita\springmvc\configuration\AppConfig.class
+com\fita\springmvc\controller\AppController.class
+com\fita\springmvc\configuration\AppInitializer.class
